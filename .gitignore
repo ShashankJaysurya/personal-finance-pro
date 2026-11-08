@@ -1,0 +1,21 @@
+# Python environment
+.venv/
+venv/
+_pycache_/
+*.py[cod]
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Local data
+expenses.json
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Logs and system files
+*.log
+.DS_Store
